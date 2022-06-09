@@ -1,0 +1,16 @@
+package santosh;
+
+public class Strings
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+		String name = "Santosh \u00BB";
+		System.out.println(name);
+		String num1 = "10";
+		String num2 = "20";
+		System.out.println(num1+num2);
+	}
+
+}

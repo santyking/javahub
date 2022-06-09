@@ -1,0 +1,16 @@
+package santosh;
+
+public class Equations
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+//		(a+b)square = ((a*a)+2*a*b+(b*b));
+		int a = 10;
+		float b = 1.2f;
+		double result = ((a*a)+2*a*b+(b*b));
+				
+	}
+
+}

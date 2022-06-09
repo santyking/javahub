@@ -1,0 +1,16 @@
+package santosh;
+
+public class Floates
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+		float fi = 9f/2f;
+		double di = 9f/2f;
+		System.out.println(fi);
+		System.out.println(di);
+		
+	}
+
+}

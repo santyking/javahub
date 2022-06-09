@@ -1,0 +1,14 @@
+package santosh;
+
+public class BooleanAndChar
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+		boolean result = 0;
+		System.out.println(result);
+
+	}
+
+}

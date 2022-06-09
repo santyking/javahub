@@ -1,0 +1,13 @@
+package santosh;
+
+public class Strings
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+		String name = "Santosh";
+		System.out.println(name);
+	}
+
+}
