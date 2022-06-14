@@ -38,7 +38,7 @@ public class ForLoop {
 		*/
 //		Type 5
 //		Here we do even the incrementation later
-		/*
+		
 		int i = 1;
 		for (;;) {
 			if (i>5) {
@@ -47,7 +47,7 @@ public class ForLoop {
 			System.out.println(i);
 			i++;
 		}
-		*/
+		
 	}
 
 }
