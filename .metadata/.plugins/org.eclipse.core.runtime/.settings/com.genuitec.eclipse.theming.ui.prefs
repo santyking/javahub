@@ -1,10 +1,13 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=parent of be4cf8a (For Loop)
 applyBackground=true
 approved.defs.file.last.changed.time=1649720987000
 configurationInstallLocation=/C\:/Users/santosh/eclipse/jee-2022-03/eclipse/
 eclipse.preferences.version=1
 iconcolormode=primary
 includeThemingInOomph=false
-last.download.attempt.time=1655198937465
-lastConfiguration=1655198918472
+last.download.attempt.time=1655199467507
+lastConfiguration=1655199455275
 newinstall=true
 workbench.theme=Dark Gray
